@@ -57,6 +57,8 @@ Once you have created your notification rule and move on to the delivery mechani
 
     - **Telegram user chat_id**: Paste the id field form the chat 
 
+    - **Telegram BOT API url Prefix**: This is the fixed part of the URL used to send messages and should not be modified under normal circumstances.
+
   - Enable the plugin and click *Next*
 
   - Complete your notification setup
